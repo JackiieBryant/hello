@@ -2,7 +2,7 @@ import React from 'react'
 
 function App () {
   return (
-    <div>Apdvgqdpfff p</div>
+    <div>App</div>
   )
 }
 
